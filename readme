@@ -1,0 +1,8 @@
+step to run
+- clone to your local
+- open on your IDE
+- run file ShortPath.java
+
+---OR---
+- go to folder dist
+- run java -jar ShortPath.jar
